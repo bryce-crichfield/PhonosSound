@@ -1,0 +1,17 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+
+# Build directory
+/Build/
+
+# Dependency directories
+/Vendor/
